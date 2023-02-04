@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sonudhakane7526
+- 👋 Hi, I’m @vikas dhakane
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, C programming, JavaScript.
 - 💞️ I’m looking to collaborate on the projects 
 - 📫 How to reach me 8855997526 
 
